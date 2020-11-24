@@ -1,2 +1,2 @@
 # Mini-ML-Projects
-Mini Projects on ML algorithms
+Classifying Email with help of various ML algorithms .
