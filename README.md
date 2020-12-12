@@ -1,2 +1,2 @@
 # Email-Classification
-Classifying Email with the help of various ML algorithms .
+Dataset consists of emails of enron employee. I have used various ML algorithms to classify the Emails. 
